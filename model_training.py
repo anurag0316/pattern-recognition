@@ -12,7 +12,7 @@ from PIL import Image
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-DATA_DIR =  "/Users/vejandlaanji/Documents/smartintern/data_pattern" # ✅ Change this
+DATA_DIR =  "/Users/ajmeera harika/Documents/smartintern/data_pattern" # ✅ Change this
 IMG_SIZE = 128
 BATCH_SIZE = 32
 EPOCHS = 10
